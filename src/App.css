@@ -36,3 +36,52 @@
     transform: rotate(360deg);
   }
 }
+
+.headings {
+  margin: 20px auto 20px auto;
+}
+
+.title {
+  font-size: 35px;
+  font-weight: 300;
+  margin: 30px auto 40px auto;
+}
+
+.buttons {
+  margin: 30px auto 30px auto;
+}
+
+.button-1 {
+  background-color: #008CBA;
+  color: white;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 10px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+
+  background-color: white; 
+  color: black; 
+  border: 2px solid #008CBA;
+  border-radius: 10px;
+}
+
+.button-1:hover {
+  background-color: #008CBA;
+  color: white;
+}
+
+.price {
+  font-size: 20px;
+  font-weight: 400;
+  margin: 20px auto 0px auto;
+}
+
+.chart {
+  width: 1000px;
+  height: 500px;
+  margin: 30px auto 10px auto;
+}
